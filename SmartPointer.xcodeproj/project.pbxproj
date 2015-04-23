@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		1ED828C31AE4119700666609 /* SmartPointer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SmartPointer; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ED828C61AE4119700666609 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		1ED828CE1AE411B300666609 /* SmartPointer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SmartPointer.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				1ED828C61AE4119700666609 /* main.cpp */,
+				1ED828CE1AE411B300666609 /* SmartPointer.h */,
 			);
 			path = SmartPointer;
 			sourceTree = "<group>";
